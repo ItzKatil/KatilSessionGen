@@ -60,10 +60,6 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 - For getting out from tmux session<br>
 Press `Ctrl+b` and then `d`
 
-<p align="center">
-  <img src="https://te.legra.ph/file/fa5b692e4ddb87559db17.jpg">
-</p>
-
 </details>
 
 ━━━━━━━━━━━━━━━━━━━━
@@ -84,7 +80,7 @@ Press `Ctrl+b` and then `d`
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/ItzKatil)  ғᴏʀ  [ғᴀʟʟᴇɴ ᴍᴜsɪᴄ](https://github.com/ItzKatil/KatilMusic)</b>
+- <b>[Katil](https://github.com/ItzKatil)  ғᴏʀ  [KATIL MUSIC](https://github.com/ItzKatil/KatilMusic)</b>
 
 <b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/ItzKatil/KatilSessionGen/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ sᴛʀɪɴɢ ɢᴇɴ ʙᴏᴛ ᴜsᴇғᴜʟ 🖤</b>
 
